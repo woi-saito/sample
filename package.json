@@ -1,0 +1,23 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woi-saito/sample.git"
+  },
+  "author": "aoppe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woi-saito/sample/issues"
+  },
+  "homepage": "https://github.com/woi-saito/sample#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "vue": "^2.6.12"
+  }
+}
